@@ -48,7 +48,7 @@ for (let varNum=0; varNum<=10; varNum++){
   if ((varNum==3)||(varNum==8)) continue;
   console.log(varNum)
   }
-
+  
 
 /* ESERCIZIO 4
   Scrivi un ciclo in JavaScript per iterare da 0 a 15. Per ciascun elemento, il ciclo deve controllare che il valore corrente sia pari o dispari, e mostrare il risultato in console.
